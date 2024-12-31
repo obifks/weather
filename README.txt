@@ -82,4 +82,4 @@ Contribuições são bem-vindas! Para sugerir melhorias ou reportar problemas, a
 
 Autor ✒️
 
-[Seu Nome] - Desenvolvedor e Criador do Projeto.
+Guilherme Pereira - Desenvolvedor e Criador do Projeto.
